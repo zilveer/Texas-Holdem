@@ -1,0 +1,35 @@
+download git
+download heroku toolbelt: https://toolbelt.heroku.com/download/windows
+* might need to edit the PATH
+
+idk... what else i did
+
+git add .
+git commit -m "stuff"
+git push heroku master
+
+REEDER SAID
+git commit -a -m "comment"
+Only has to do:
+heroku ps:scale web=1
+
+YOU MUST ENABLE WEBSOCKETS
+heroku labs:enable websockets
+
+
+
+YOU ALSO HAVE ACCESS TO:
+heroku logs
+heroku open
+
+
+
+start in an empty directory
+heroku gives u a url
+then you git clone url
+then it asks you for heroku stuff
+make ur changes
+git commit -a -m "adf"
+git push heroku master
+
+* might have to do a git pull heroku master between the commit and push
