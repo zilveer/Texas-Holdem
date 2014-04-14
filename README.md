@@ -8,3 +8,5 @@ A playable <a href="http://captopoker.heroku.com/">demo</a> of this unfinished g
 It still needs "fold" and "bet". It's about another day of work to finish this up.
 
 <img src="ss1.png"></img>
+
+
